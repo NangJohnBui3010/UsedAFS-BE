@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TimothyDai\\Documents\\Book Giveaway Project\\BE\\UsedAFS-BE\\UsedAFS-BE\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\TimothyDai\\Documents\\Book Giveaway Project\\BE\\UsedAFS-BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47310114-1CED-41A1-8A49-0E953B451021}|UsedAFS-BE\\UsedAFS-BE.csproj|c:\\users\\timothydai\\documents\\book giveaway project\\be\\usedafs-be\\usedafs-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47310114-1CED-41A1-8A49-0E953B451021}|UsedAFS-BE\\UsedAFS-BE.csproj|solutionrelative:usedafs-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 278,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TimothyDai\\Documents\\Book Giveaway Project\\BE\\UsedAFS-BE\\UsedAFS-BE\\Program.cs",
+              "RelativeDocumentMoniker": "UsedAFS-BE\\Program.cs",
+              "ToolTip": "C:\\Users\\TimothyDai\\Documents\\Book Giveaway Project\\BE\\UsedAFS-BE\\UsedAFS-BE\\Program.cs",
+              "RelativeToolTip": "UsedAFS-BE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:10:59.557Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsedAFS-BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8274cfc1d8593176f476c600b4391a55f1293499")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4051ffee5f18f9a8be88fa7532438cc58284506d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsedAFS-BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsedAFS-BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

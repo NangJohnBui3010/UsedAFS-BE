@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace UsedAFS_BE.Entities
 {
-    internal class BookEntity
+    public class BookEntity
     {
+        [Key]
+        public int BookId { get; set; }
+        public string ISBN { get; set; }
+        public string Title { get; set; }
+        public int PersonId { get; set; }
+        public PersonEntity Person { get; set; }
     }
 }

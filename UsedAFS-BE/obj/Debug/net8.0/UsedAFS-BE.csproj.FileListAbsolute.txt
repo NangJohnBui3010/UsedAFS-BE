@@ -1,0 +1,91 @@
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\appsettings.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.exe
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.deps.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.runtimeconfig.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.pdb
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.AssemblyReference.cache
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.AssemblyInfoInputs.cache
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.AssemblyInfo.cs
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.CoreCompileInputs.cache
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.UsedAFS-BE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.build.UsedAFS-BE.props
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UsedAFS-BE.props
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UsedAFS-BE.props
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\scopedcss\bundle\UsedAFS-BE.styles.css
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.Up2Date
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\refint\UsedAFS-BE.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.pdb
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.genruntimeconfig.cache
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\ref\UsedAFS-BE.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\TimothyDai\source\repos\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.AssemblyReference.cache
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.AssemblyInfoInputs.cache
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.AssemblyInfo.cs
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.CoreCompileInputs.cache
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.sourcelink.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\refint\UsedAFS-BE.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.pdb
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\appsettings.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.exe
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.deps.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.runtimeconfig.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\UsedAFS-BE.pdb
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\DnsClient.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Snappier.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.UsedAFS-BE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.build.UsedAFS-BE.props
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UsedAFS-BE.props
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UsedAFS-BE.props
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\scopedcss\bundle\UsedAFS-BE.styles.css
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.csproj.Up2Date
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\UsedAFS-BE.genruntimeconfig.cache
+C:\Users\TimothyDai\Documents\Book Giveaway Project\BE\UsedAFS-BE\UsedAFS-BE\obj\Debug\net8.0\ref\UsedAFS-BE.dll
